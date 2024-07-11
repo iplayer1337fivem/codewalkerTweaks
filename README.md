@@ -6,6 +6,9 @@ This configuration makes your CodeWalker start with the following settings autom
 - AUTO DLC applied
 - AUTO MODS applied
 
+## IMPORTANT ##
+MAKE SURE YOUR GTA LOCATION IS CORRECT - CHECK IT OUT BEFORE OVERWRITING - OR UPDATE IT TO AFTERWARDS <3
+
 ## Disclaimer
 
 I am not affiliated with the CodeWalker team. These settings are purely shared to help others who may not know about them and to make your life easier as they did mine.
