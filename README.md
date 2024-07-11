@@ -1,6 +1,22 @@
-# codewalkerTweaks
-codewalker.exe.config
+# CodewalkerTweaks
+CodeWalker.exe.config / Easier preferred settings from the get-go - makes your life easier, as it did mine :)
 
-1. Locate your codewalker.exe.config, in the root of your codewalker folder.
-2. Open with VS or NP+ and copy/paste from this file to the existing or jusr overwrite it with the [codewalker.exe.config] from the [modified] folder!
-3. Revert to standard  / reset - follow step 1^^ and then go to this repro folder [standard_CW_2_5] , overwrfite it. And you are back to standard.
+This configuration makes your CodeWalker start with the following settings automatically:
+- AUTO MAXIMIZED WINDOW
+- AUTO DLC applied
+- AUTO MODS applied
+
+## Instructions
+
+1. Locate your `CodeWalker.exe.config` in the root of your CodeWalker folder. (Right-click your exe file to go to the folder easily.)
+2. Overwrite the existing file (`CodeWalker.exe.config`) in the root of your CodeWalker folder with the file from [here](https://github.com/iplayer1337fivem/codewalkerTweaks/tree/main/modified).
+3. Open/EDIT with VS or NP+ and copy/paste from this file to the existing one or just overwrite it with the `CodeWalker.exe.config` from the [modified](https://github.com/iplayer1337fivem/codewalkerTweaks/blob/main/modified/CodeWalker.exe.config) folder. If you want to tweak it further, do it [here](https://github.com/iplayer1337fivem/codewalkerTweaks/tree/main/modified).
+4. To revert to the standard/reset configuration, follow step 1, and then go to this repository folder [here](https://github.com/iplayer1337fivem/codewalkerTweaks/tree/main/standard), overwrite it, and you will be back to the standard configuration.
+5. Restart CodeWalker every time you switch the config to execute the changes.
+6. Enjoy an easier life.
+
+## Useful Links
+
+- For more information about CodeWalker, visit the [CodeWalker GTAV Interactive 3D Map](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map) page.
+- Download Visual Studio: [Visual Studio Free Developer Offers](https://visualstudio.microsoft.com/free-developer-offers/)
+- Download Notepad++: [Notepad++ Downloads](https://notepad-plus-plus.org/downloads/)
