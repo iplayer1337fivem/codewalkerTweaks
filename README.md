@@ -6,6 +6,10 @@ This configuration makes your CodeWalker start with the following settings autom
 - AUTO DLC applied
 - AUTO MODS applied
 
+## Disclaimer
+
+I am not affiliated with the CodeWalker team. These settings are purely shared to help others who may not know about them and to make your life easier as they did mine.
+
 ## Instructions
 
 1. Locate your `CodeWalker.exe.config` in the root of your CodeWalker folder. (Right-click your exe file to go to the folder easily.)
